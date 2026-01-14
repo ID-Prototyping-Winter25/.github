@@ -2,7 +2,7 @@
 
 ![Wohnbuddy](./Team01_Wohnbuddy.png)
 
-![DnDAN](./Team2_DnDAN.png)
+![DnDAN](./Team2_DnDAN_light.png)
 
 ![TeachLab](./Team03_TeachLab.png)
 
